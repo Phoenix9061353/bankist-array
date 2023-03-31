@@ -1,6 +1,6 @@
 # Bankist Project
 
-為 Udemy 線上課程 - The Complete JavaScript Course 2023: From Zero to Expert! 中的 project 之一  
+為 Udemy 線上課程 - 「[The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)」 中的 project 之一  
 一切版權歸於該課程的導師 Jonas Schmedtmann 所有
 
 ## 目前功能
